@@ -1,0 +1,34 @@
+.banner {
+  display: flex;
+  align-items: center;
+  justify-content: end;
+  font-family: "poppins-regular", sans-serif;
+  font-size: 14px;
+}
+.bannerText {
+  display: flex;
+  width: 859px;
+}
+.bannerText > p {
+  margin-right: 8px;
+  line-height: 21;
+}
+.bannerText > a {
+  color: white;
+  line-height: 21;
+  font-family: "poppins-semi-bold", sans-serif;
+}
+
+.bannerSection {
+  background: black;
+  color: white;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  height: 48px;
+}
+
+.lang {
+  display: flex;
+  align-items: center;
+}
